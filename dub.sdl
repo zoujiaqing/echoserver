@@ -1,0 +1,6 @@
+name "echoserver"
+description "echo server based on eventcore."
+authors "zoujiaqing"
+copyright "Copyright © 2024, zoujiaqing"
+license "boost"
+dependency "eventcore" version="~>0.9.28"
